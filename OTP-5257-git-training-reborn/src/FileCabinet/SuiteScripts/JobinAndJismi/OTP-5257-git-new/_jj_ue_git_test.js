@@ -3,9 +3,7 @@
  * @NScriptType UserEventScript
  */
 define(['N/search'],
-    /**
- * @param{search} search
- */
+   
     (search) => {
        
         const beforeLoad = (scriptContext) => {
