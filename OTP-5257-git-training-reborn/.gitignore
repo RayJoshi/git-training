@@ -1,13 +1,3 @@
-# IDEs and editors
-.idea
-*.iml
-*.iws
-.project
-.classpath
-*.launch
-.settings
-*.sublime-workspace
-.vscode
 
 # Dependency directories
 node_modules
